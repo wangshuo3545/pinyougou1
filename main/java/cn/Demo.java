@@ -5,5 +5,6 @@ public class Demo {
         System.out.println("你好,世界");
         System.out.println("你好啊,勇士");
         System.out.println("你好啊 辣鸡");
+        System.out.println("你好啊 呵呵哒");
     }
 }
